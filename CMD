@@ -1,0 +1,8 @@
+
+pip3 install virtualenv
+
+pip3 install django
+
+# add rule here to allow port 8000 on firewall
+
+
